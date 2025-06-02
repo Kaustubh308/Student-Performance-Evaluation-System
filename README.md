@@ -60,10 +60,20 @@ Prof. Shubhi Sharma
 
 ## 👨‍💻 Team Members
 
-Arko Aditya (R2142220446)
+Kaustubh Rajwar
 
-Sai Karthik Ayyar (R2142220158)
+Divyansh Kathuria
 
-Kaustubh Rajwar (R2142220488)
+Sai Karthik Ayyar
 
-Divyansh Kathuria (R2142220488)
+Arko Aditya Baksi
+
+---
+
+## 📬 Contact
+
+📧 Email: krajwar2004@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/kaustubhrajwar/
+
+💻 GitHub: Your GitHub
