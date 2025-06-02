@@ -31,7 +31,9 @@ An AI-driven educational analytics platform that automates the assessment of stu
 ## 📁 Project Structure
 <img width="627" alt="Screenshot 2025-06-03 at 1 11 04 AM" src="https://github.com/user-attachments/assets/00653b05-dad2-4289-8244-2b103b4ce933" />
 
-🧪 Sample Usage
+---
+
+## 🧪 Sample Usage
 Input student data: assessments, library logs, exam scores
 
 Click Evaluate to compute ranking, performance tier, and suggestions
