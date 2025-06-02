@@ -30,13 +30,22 @@ An AI-driven educational analytics platform that automates the assessment of stu
 
 ## 📁 Project Structure
 student-performance-eval/
-├── data/ # Contains student and course CSV datasets
-├── modules/
-├── ranking/ # Quick Sort based student ranking
-├── path_optimizer/ # Floyd-Warshall for learning path
-├── classification/ # ML models for student categorization
-└── recommendation/ # ML-based course suggestions
-├── frontend/ # Web interface (HTML/CSS/JS)
-├── notebooks/ # Development and testing notebooks
-└── README.md
+├── 📂 data/                  
+│   └── 📄 student_details.csv, course_details.csv
+│
+├── 📂 modules/               
+│   ├── 📂 ranking/              # Quick Sort based ranking
+│   ├── 📂 path_optimizer/       # Floyd-Warshall algorithm
+│   ├── 📂 classification/       # ML models (e.g., SVM, Decision Trees)
+│   └── 📂 recommendation/       # ML-based course suggestions
+│
+├── 📂 frontend/              
+│   ├── 📄 index.html
+│   ├── 📄 styles.css
+│   └── 📄 script.js
+│
+├── 📂 notebooks/            
+│   └── 📄 dev_analysis.ipynb
+│
+└── 📄 README.md
 
