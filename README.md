@@ -44,3 +44,27 @@ View personalized course recommendations
 
 Monitor academic progression over time
 
+---
+
+## 📸 Visual Workflow
+
+---
+
+## 🖼️ Visual Results
+
+---
+
+## 👥 Project Team
+# 👩‍🏫 Mentor
+Prof. Shubhi Sharma
+Assistant Professor, School of Computer Science, UPES
+
+# 👨‍💻 Team Members
+
+Arko Aditya (R2142220446)
+
+Sai Karthik Ayyar (R2142220158)
+
+Kaustubh Rajwar (R2142220488)
+
+Divyansh Kathuria (R2142220488)
