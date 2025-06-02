@@ -55,11 +55,11 @@ Monitor academic progression over time
 ---
 
 ## 👥 Project Team
-# 👩‍🏫 Mentor
+## 👩‍🏫 Mentor
 Prof. Shubhi Sharma
 Assistant Professor, School of Computer Science, UPES
 
-# 👨‍💻 Team Members
+## 👨‍💻 Team Members
 
 Arko Aditya (R2142220446)
 
