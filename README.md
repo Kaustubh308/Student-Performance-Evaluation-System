@@ -57,6 +57,7 @@ Monitor academic progression over time
 ## 👥 Project Team
 ## 👩‍🏫 Mentor
 Prof. Shubhi Sharma
+
 Assistant Professor, School of Computer Science, UPES
 
 ## 👨‍💻 Team Members
