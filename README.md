@@ -29,4 +29,14 @@ An AI-driven educational analytics platform that automates the assessment of stu
 ---
 
 ## 📁 Project Structure
+student-performance-eval/
+├── data/ # Contains student and course CSV datasets
+├── modules/
+│ ├── ranking/ # Quick Sort based student ranking
+│ ├── path_optimizer/ # Floyd-Warshall for learning path
+│ ├── classification/ # ML models for student categorization
+│ └── recommendation/ # ML-based course suggestions
+├── frontend/ # Web interface (HTML/CSS/JS)
+├── notebooks/ # Development and testing notebooks
+└── README.md
 
