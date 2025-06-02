@@ -33,8 +33,12 @@ An AI-driven educational analytics platform that automates the assessment of stu
 
 🧪 Sample Usage
 Input student data: assessments, library logs, exam scores
+
 Click Evaluate to compute ranking, performance tier, and suggestions
+
 Visualize optimized learning paths
+
 View personalized course recommendations
+
 Monitor academic progression over time
 
